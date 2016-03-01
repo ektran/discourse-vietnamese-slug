@@ -22,7 +22,7 @@ hooks:
         cmd:
           - mkdir -p plugins
           - git clone https://github.com/discourse/docker_manager.git
-          - git clone https://github.com/thangngoc89/discourse-vietnamese-slug.git
+          - git clone https://github.com/ektran/discourse-vietnamese-slug.git
 ```
 
 Rebuild Your Docker
