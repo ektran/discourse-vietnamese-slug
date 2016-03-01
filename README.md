@@ -5,7 +5,7 @@ Add Vietnamese Slug to Discourse. http://ask.hoidapyhoc.com
 
 ##Non-docker installation
 
-* Run `bundle exec rake plugin:install repo=https://github.com/thangngoc89/discourse-vietnamese-slug` in your discourse directory
+* Run `bundle exec rake plugin:install repo=https://github.com/ektran/discourse-vietnamese-slug` in your discourse directory
 * In development mode, `run bundle exec rake assets:clean`
 * In production, recompile your assets: `bundle exec rake assets:precompile`
 * Restart Discourse
